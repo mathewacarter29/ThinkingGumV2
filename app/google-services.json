@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971321382784",
+    "project_id": "thinking-gum",
+    "storage_bucket": "thinking-gum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971321382784:android:cbe1a748ceaa82fb265365",
+        "android_client_info": {
+          "package_name": "com.example.thinkinggumv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971321382784-ou5qveu41c8mvfl7i0a5bdhvrbrgj2te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40uZp2FQQlD8le3JKfWzdDgqANlNoB-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971321382784-ou5qveu41c8mvfl7i0a5bdhvrbrgj2te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
